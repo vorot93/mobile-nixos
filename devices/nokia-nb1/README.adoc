@@ -1,0 +1,4 @@
+= Nokia 8
+include::_support/common.inc[]
+
+== Device-specific notes
